@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Pulse Protect'
+project = 'PulseProtect'
 copyright = '2025, Shayan V.'
 author = 'Shayan Vafaei'
 
