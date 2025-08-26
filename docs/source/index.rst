@@ -12,8 +12,6 @@ Welcome to PulseProtect's documentation!
 
 This project aims to assist cardiologists and researchers in developing advanced diagnostic systems that enable individuals with cardiac conditions to accurately identify potential myocardial infarction events and seek timely medical intervention, thereby improving patient outcomes and survival rates.
 
-
-
 Start with `QuickStart <notebooks/Minimal_Example.ipynb>`_ to get a quick sense of what PulseProtect does. 
 
 Release announcments are posted on the `GitHub <https://github.com/shayanvafaei/PulseProtect>`_.
