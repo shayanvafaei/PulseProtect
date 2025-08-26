@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Pulse Protect'
 copyright = '2025, Shayan V.'
 author = 'Shayan Vafaei'
 
@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = "images/Logo.svg"
+html_logo = "images/Logo.png"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
