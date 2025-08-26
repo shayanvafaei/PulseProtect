@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+PulseProtect - Python library Myocardial Infarction (Heart Attack) Detection
 """
 
 __version__ = "0.1.0"
